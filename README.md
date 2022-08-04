@@ -28,6 +28,7 @@ Para usar este script, debe configurar un python3 enviroment con el siguiente co
 
 Descargue md Genesis y colóquelo en la carpeta roms.
 Para importar el juego o retro open-ai. Ejecute
+
 8. python3 -m retro.import roms
 5. python Sonic_Proyecto.py
 6. python Vectorman2_Proyecyo.py
