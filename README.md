@@ -13,7 +13,10 @@
              
                 ---- Jorge Ruiz, 6-723-428 ----
                  ---- jorge.ruiz@up.ac.pa ----
- 
+			---- Zaydeth Lewis, ----
+ zaydeth.lewis@up.ac.pa.
+
+gilberto.munoz@up.ac.pa
  ==============================================================================
 
 
@@ -29,7 +32,7 @@ Para usar este script, debe configurar un python3 enviroment con el siguiente co
 Descargue md Genesis y colóquelo en la carpeta roms.
 Para importar el juego o retro open-ai. Ejecute
 8. python3 -m retro.import roms
-5. python Sonic_Proyecto.py
-6. python Vectorman2_Proyecyo.py
+9. python Sonic_Proyecto.py
+10. python Vectorman2_Proyecto.py
 
 Pd. md Genesis lo puedes encontrar en mis repositorios.
